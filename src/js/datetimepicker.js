@@ -351,7 +351,7 @@
               var newDate = new Date(tempDate.getTime() + (tempDate.getTimezoneOffset() * 60000));
 
               var oldDate = ngModelController.$modelValue;
-              ngModelController.$setViewValue(newDate);
+              //ngModelController.$setViewValue(newDate);
 
               if (configuration.dropdownSelector) {
                 jQuery(configuration.dropdownSelector).dropdown('toggle');
