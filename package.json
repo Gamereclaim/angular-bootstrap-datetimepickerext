@@ -1,6 +1,6 @@
 {
-  "name": "angular-bootstrap-datetimepicker",
-  "version": "0.3.15",
+  "name": "angular-bootstrap-datetimepickerext",
+  "version": "0.3.16",
   "description": "This directive allows you to add a datetime-picker to your form elements.",
   "keywords": [
     "anguar",
@@ -64,6 +64,6 @@
   },
   "repository": {
     "type": "git",
-    "url": "git://github.com/dalelotts/angular-bootstrap-datetimepicker.git"
+    "url": "git://github.com/Gamereclaim/angular-bootstrap-datetimepickerext"
   }
 }
